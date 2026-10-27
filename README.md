@@ -1,6 +1,6 @@
 # Hi, I'm Karim 👋
 
-Full-stack developer from the Netherlands. I like building things end to end — from the database and API to the interface — and I enjoy finding out how things work under the hood, from raw HTTP over sockets to a webcam driver in C.
+Junior full-stack developer and HBO-ICT student (HvA) from Amsterdam, the Netherlands. I like building things end to end — from the database and API to the interface — and I enjoy finding out how things work under the hood, from raw HTTP over sockets to a webcam driver in C.
 
 ## 🛠 Tech I work with
 
